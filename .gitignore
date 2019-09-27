@@ -1,8 +1,4 @@
-.o
-.obj
-.lib
-.so
-.dll
-.exe
-.out
+*
+!*.c
+!*.cpp
 
